@@ -4,16 +4,15 @@
 <h3 align="center">A passionate frontend Web developer and Freelancer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
 
-- 🔭 I’m currently working on **Imdb Rating Website**
+- 🔭 I’m currently working on **Crew-Rental Construction Web Application**
 
-- 👨‍💻 All of my projects are available at [https://github.com/laxmikant007](https://github.com/laxmikant007)
-
-- 💬 Ask me about **React Js , Android , Frontend Web-Development**
+- 👨‍💻 All of my projects are available at [Personal Portfolio](https://laxmikant007.github.io/Laxmikant_Portfolio/)
 
 - 📫 How to reach me **laxmikantsarswat007@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1m1Ct-uADTT7aTnXM96w6geJ9q90lNzt8/view?usp=sharing](https://drive.google.com/file/d/1m1Ct-uADTT7aTnXM96w6geJ9q90lNzt8/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1bxiO0ZEjUda0QueOdRwYq8IjCjQWJRjv/view?usp=share_link)
 
+- 💬 Ask me about **Anything you want😊😁**
 - ⚡ Fun fact **I Code for fun😂😂😎**
 
 <h3 align="left">Connect with me:</h3>
