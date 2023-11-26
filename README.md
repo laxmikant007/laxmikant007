@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on **Crew-Rental Construction Web Application**
 
-- 👨‍💻 All of my projects are available at [Personal Portfolio](https://laxmikant007.github.io/Laxmikant_Portfolio/)
+- 👨‍💻 All of my projects are available at [laxmikant.co](https://laxmikant.co)
 
 - 📫 How to reach me **laxmikantsarswat007@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1bxiO0ZEjUda0QueOdRwYq8IjCjQWJRjv/view?usp=share_link)
+- 📄 Know about my experiences [My Updated Resume](https://drive.google.com/file/d/1YY8PTzh0MpkbDTH12WUVfKehXZ1S21XS/view)
 
 - 💬 Ask me about **Anything you want😊😁**
 - ⚡ Fun fact **I Code for fun😂😂😎**
